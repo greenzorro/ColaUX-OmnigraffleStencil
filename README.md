@@ -1,15 +1,25 @@
 # ColaUX-OmnigraffleStencil
 
-一款自制的Omnigraffle Stencil，交互设计工具，专门用于绘制流程图。很微不足道的小玩意，主要是自己用的，以后有补充也会更新到这里。
+一款自制的Omnigraffle Stencil，交互设计工具，专门用于绘制流程图。很微不足道的小玩意，主要自己用，以后若有改进也会更新上来。
 
-下载地址：
+[>> 下载Stencil文件](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/ColaUX.gstencil)
 
-[https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/ColaUX.gstencil](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/ColaUX.gstencil)
+---
 
-[https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/stencil demo.graffle](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/stencil demo.graffle)
+以下是Stencil中包含的所有元素：
 
 ![](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/preview/1.png)
 
+## 用它能做什么？
+
+目的很明确，用来绘制交互设计中的业务流程和页面流程，Demo效果如下：
+
 ![](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/preview/2.png)
 
+*业务流程图，而且包含泳道图所需的元素*
+
 ![](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/preview/3.png)
+
+*页面流程图*
+
+最后，附上[Demo的Omigraffle源文件](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/stencil demo.graffle)，供下载研究。
