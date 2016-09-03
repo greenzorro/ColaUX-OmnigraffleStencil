@@ -4,21 +4,21 @@
 
 [>> 下载Stencil文件](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/ColaUX.gstencil)
 
----
-
 以下是Stencil中包含的所有元素：
 
 ![](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/preview/1.png)
 
-# 用它能做什么？
+---
+
+## 用它能做什么？
 
 目的很明确，用来绘制交互设计中的业务流程和页面流程，Demo效果如下：
 
-## 业务流程图，包含泳道图所需元素
+### 业务流程图，包含泳道图所需元素
 
 ![](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/preview/2.png)
 
-## 页面流程图
+### 页面流程图
 
 ![](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/preview/3.png)
 
