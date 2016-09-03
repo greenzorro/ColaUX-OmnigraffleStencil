@@ -1,6 +1,6 @@
 # ColaUX-OmnigraffleStencil
 
-一款自制的Omnigraffle Stencil，交互设计工具，专门用于绘制流程图。很微不足道的小玩意，主要自己用，以后若有改进也会更新上来。
+自制一款Omnigraffle Stencil，交互设计工具，用于绘制流程图。微不足道的小玩意，主要自己用，以后若有改进也会更新上来。
 
 [>> 下载Stencil文件](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/ColaUX.gstencil)
 
