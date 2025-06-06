@@ -25,3 +25,7 @@ An Omnigraffle Stencil for flowcharts.
 *↑ 页面流程图*
 
 最后，附上[Demo源文件](https://raw.githubusercontent.com/greenzorro/ColaUX-OmnigraffleStencil/master/downloads/stencil%20demo.graffle)，供下载研究。
+
+---
+
+Created by [Victor_42](https://victor42.work/)
